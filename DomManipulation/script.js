@@ -1,0 +1,1 @@
+alert(`Calculate Following ${2+2}`)
